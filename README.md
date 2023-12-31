@@ -1,16 +1,36 @@
-### Hi there 👋
+<h1>Hello! I'm Tomorrow! <br/><a href="www.linkedin.com/in/tomorrow-carswell-947335297">Cybersecurity Student</a></h1>
 
-<!--
-**tcarswell1987/tcarswell1987** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2>Cybersecurity Projects:</h2>
 
-Here are some ideas to get you started:
+- <b>ActiveDirectory Lab</b>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2>Certifications Current & Projected</h2>
+
+<b>CompTIA</b>
+- A+
+- Network+
+- Security+
+- Project+
+- CySA+
+- Network Vulnerability Assessment Professional
+- Network Security Professional
+- Security Analytics Professional
+- PenTest+
+- IT Operations Specialist
+- Secure Infrastructure Specialist
+
+<b>Linux</b>
+- Linux Essentials
+
+<b>AXELOS</b>
+- ITIL® Foundation Certification
+
+<b>Others</b>
+- Certified Cloud Security Professional (CCSP)
+- Systems Security Certified Practitioner (SSCP) – Associate of (ISC)² designation
+
+<h2> 🤳 Connect with me:</h2>
+
+[<img align="left" alt="TomorrowCarswell | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+[linkedin]: www.linkedin.com/in/tomorrow-carswell-947335297
