@@ -4,6 +4,7 @@
 
 - <b><a href="https://github.com/tcarswell1987/activedirectbeginner.git">ActiveDirectory Lab</a></b>
 - <b><a href="https://github.com/tcarswell1987/digitalforensicsassignment">Digital Forensics Assignment Using Autopsy</a></b>
+- <b><a href="https://pepper-base-02f.notion.site/The-Complete-SQL-Bootcamp-Challenges-102743d159d38055a44cec4fdfec98a4">My SQL Bootcamp Challenges</a></b>
 
 <h2>Certifications Current & Projected</h2>
 
