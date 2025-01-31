@@ -14,12 +14,7 @@
 - Security+
 - Project+
 - CySA+
-- Network Vulnerability Assessment Professional
-- Network Security Professional
-- Security Analytics Professional
 - PenTest+
-- IT Operations Specialist
-- Secure Infrastructure Specialist
 
 <b>Linux</b>
 - Linux Essentials
